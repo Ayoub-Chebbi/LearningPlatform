@@ -1,0 +1,19 @@
+.companies-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.companies-wrapper img {
+  width: 150px;
+}
+
+.container h1{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.container{
+    margin-top: 30px;
+}

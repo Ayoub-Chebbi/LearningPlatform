@@ -1,0 +1,26 @@
+.btn-nav button{
+    background-color: #f8f9fa;
+    color: #343a40;
+    border: 1px solid #343a40;
+    margin: 0 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s;
+    border-radius: 20px;
+    padding: 3px 20px 3px 20px;
+}
+
+.btn-nav button:first-child{
+    background-color: #FFFFFF;
+    border-color: transparent;
+    color: #6C6C6C;
+}
+
+.btn-nav button{
+    background-color: #F48C06;
+    border-color: transparent;
+    color: #FFFFFF;
+}

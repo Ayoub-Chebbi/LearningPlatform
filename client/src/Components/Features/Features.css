@@ -1,0 +1,18 @@
+.features-left_section img {
+  width: 650px;
+}
+
+.features-section h1{
+    color: #2F327D;
+}
+
+.features-section p{
+    color: #696984;
+}
+
+.features-section{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+
+}

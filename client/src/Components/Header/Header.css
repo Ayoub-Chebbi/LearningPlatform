@@ -1,0 +1,41 @@
+.header-main_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-right_section img{
+    width: 700px;
+}
+
+.header-right_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-left_section h1{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #F48C06;
+}
+
+.header-left_section span{
+    color: #2F327D;
+}
+
+.header-left_section p	{
+    font-size: 1.5rem;
+    color: #464646;
+}
+
+.header-left_section button{
+    padding: 10px 20px;
+    background-color: #F48C06;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 20px;
+}

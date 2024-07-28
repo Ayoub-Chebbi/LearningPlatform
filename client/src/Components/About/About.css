@@ -1,0 +1,45 @@
+.about-section{
+    display: flex;
+    align-items: center;
+}
+
+.about-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    gap: 30px;
+}
+
+.about-header_text{
+    text-align: center;
+}
+
+.about-header_text h1{
+    font-size: 2rem;
+    color: #2F327D;
+}
+
+.about-header_text p{
+    font-size: 1.2rem;
+    color: #2F327D;
+}
+
+.about-header_text span{
+    color: #F48C06;
+}
+
+.about-left_section h1{
+    font-size: 2rem;
+    color: #2F327D;
+}
+
+.about-left_section span{
+    color: #F48C06;
+}
+
+.about-left_section p{
+    font-size: 1.2rem;
+    color: #2F327D;
+}
